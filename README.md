@@ -1,4 +1,4 @@
-# FinVol_Code
+# Financial Volatility SS26
 
 Financial volatility modelling project.
 
